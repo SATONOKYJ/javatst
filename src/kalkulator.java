@@ -23,7 +23,7 @@ public class kalkulator {
         String mnorzenie_str = "Mnorzenie " + Number1 + " przez " + Number2 + " = " + mnorzenie;
         String dzielenie_str = "Dzielenie " + Number1 + " przez " + Number2 + " = " + dzielenie;
         String dodawanie_str = "Dodawanie " + Number1 + " i " + Number2 + " = " + dodawanie;
-        String odejmowanie_str = "Odejmowanie " + Number1 + " od " + Number2 + " = " + odejmowanie;
+        String odejmowanie_str = "Odejmowanie " + Number2 + " od " + Number1 + " = " + odejmowanie;
         String modulo_str = Number1 + " modulo " + Number2 + " = " + modulo;
 
 
